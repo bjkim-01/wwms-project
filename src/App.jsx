@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>원영 창고관리시스템</h1>
+      <h1>원영 창고관리시스템입니다.</h1>
     </div>
   )
 }
